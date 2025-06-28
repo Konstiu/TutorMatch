@@ -19,7 +19,7 @@
         <spring.boot.version>3.2.4</spring.boot.version>
         <h2.version>2.2.224</h2.version>
         <mapstruct.version>1.5.5.Final</mapstruct.version>
-        <jjwt.version>0.12.5</jjwt.version>
+        <jjwt.version>0.12.6</jjwt.version>
         <springdoc-openapi-ui.version>2.5.0</springdoc-openapi-ui.version>
         <jib-maven-plugin.version>3.4.2</jib-maven-plugin.version>
         <maven-checkstyle-plugin.version>3.4.0</maven-checkstyle-plugin.version>
