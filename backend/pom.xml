@@ -18,7 +18,7 @@
         <maven-surefire-plugin.version>3.5.3</maven-surefire-plugin.version>
         <spring.boot.version>3.2.4</spring.boot.version>
         <h2.version>2.2.224</h2.version>
-        <mapstruct.version>1.5.5.Final</mapstruct.version>
+        <mapstruct.version>1.6.3</mapstruct.version>
         <jjwt.version>0.12.6</jjwt.version>
         <springdoc-openapi-ui.version>2.5.0</springdoc-openapi-ui.version>
         <jib-maven-plugin.version>3.4.6</jib-maven-plugin.version>
