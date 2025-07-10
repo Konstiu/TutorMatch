@@ -3,23 +3,23 @@
 # Please see the documentation for all configuration options:
 # https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
 
-version: 2
-updates:
+#version: 2
+#updates:
   #- package-ecosystem: "" # See documentation for possible values
   #  directory: "/" # Location of package manifests
   #  schedule:
   #    interval: "weekly"
 
-  - package-ecosystem: "npm"
+#  - package-ecosystem: "npm"
     # Look for `package.json` and `lock` files in the `root` directory
-    directory: "/frontend/"
+#    directory: "/frontend/"
     # Check the npm registry for updates every day (weekdays)
-    schedule:
-      interval: "daily"
+#    schedule:
+#      interval: "daily"
 
-  - package-ecosystem: "maven"
+#  - package-ecosystem: "maven"
     # Look for `package.json` and `lock` files in the `root` directory
-    directory: "/backend/"
+#    directory: "/backend/"
     # Check the npm registry for updates every day (weekdays)
-    schedule:
-      interval: "daily"
+#    schedule:
+#      interval: "daily"
