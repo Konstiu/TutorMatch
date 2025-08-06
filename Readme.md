@@ -46,3 +46,6 @@ Users can edit their profile information in this view. They can optionally also 
 Subjects are also selected in this view. All this information is then used by the TutorMatch matching algorithm to bring together students with their peers.
 ![image](https://github.com/user-attachments/assets/9f3e17e2-f7a8-499c-bf56-65b2bddbc3b5)
 ![image](https://github.com/user-attachments/assets/9f8b87e5-e173-4178-96e7-f1f6e4b01e20)
+
+
+See the full list of [contributors here](CONTRIBUTORS.md).
